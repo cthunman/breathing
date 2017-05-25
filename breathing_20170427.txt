@@ -1,0 +1,6 @@
+# INITIAL BENCHMARK
+1:30 hold
+2:00 rest
+2:00 hold
+3:00 rest
+2:05 hold
